@@ -3,7 +3,7 @@
 
 ## AIM:
 
-To implement the simple substitution technique named Caesar cipher using C language.
+To implement the simple substitution technique named Caesar cipher using C language.a
 
 ## DESCRIPTION:
 
@@ -28,9 +28,9 @@ becomes C. To change a message back, each letter is replaced by the one three be
 
 
 
-Name:Pugazh sozhan.A
+Name:Prasanna M
 
-Reg NO:212224240121
+Reg NO:212223040151
 
 
 PROGRAM :-
